@@ -1,0 +1,7 @@
+name: iqb-2023
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - jupyter-book
